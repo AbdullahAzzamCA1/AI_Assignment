@@ -30,8 +30,9 @@
 
    Jawaban :
    
-   - Hardcode : Teknik coding yang telah ditentukan atau terformat
-   - Softcode : Teknik coding
+   - Hardcode : Teknik coding yang telah ditentukan atau terformat yang tidak dapat atau sulit dikonfigurasi. (library bahasa pemrograman)
+   - Softcode : Teknik coding yang dapat mengolah kode dengan lebih luas dan abstrak, banyak value dan fitur baik dari internal dan externa sources
+                (text files, INI files, user input,etc)
 
 6. Perbedaan compiler dan interpreter, sebutkan contoh......!!
 
@@ -43,6 +44,11 @@
 7. Perbedaan python dengan programming language lainnya...??
 
    Jawaban :
+   
+   - bersifat interpreter
+   - tidak memakai ";" untuk mengakhir code
+   - tidak memakai "{}" untuk block program, memakai indentation
+   - menggunakan istilah list bukan array
 
 8. Perbedaan IDE dan Text Editor, sebutkan contohnya...??
 
