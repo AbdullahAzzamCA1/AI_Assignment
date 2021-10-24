@@ -36,11 +36,12 @@
      
      Contoh : 
      
-     # Dracula Theme
+     Dracula Theme
      
 ![Screenshot 2021-10-25 035909](https://user-images.githubusercontent.com/92994688/138611104-43a70f10-0614-4664-b1bd-75ad202f6e71.png)
      
-    intinya yah baganti tema VSC :V, yang dulu belum ada diVSC setelah di install bisa diaplikasikan di VSC kita sesuai tampilan tema tersebut. 
+    intinya yah baganti tema VSC :V, yang dulu belum ada diVSC setelah di install bisa diaplikasikan di VSC kita 
+    sesuai tampilan tema tersebut. 
 
       
      
