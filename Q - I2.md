@@ -11,7 +11,8 @@
 
 # 2. Fungsi pada tools visual studio code
 
-     ![Slide 16_9 - 1](https://user-images.githubusercontent.com/92994688/138598452-c762c70d-fdf6-44cf-b4bd-1526753ddc63.jpg)
+ ![Slide 16_9 - 1](https://user-images.githubusercontent.com/92994688/138611122-b1e0ff30-d7ab-4d7c-baa1-a6dc9d203572.png)
+
 
      1. Explorer       : Untuk memanage atau mengelola folder atau file project.
     
@@ -37,7 +38,7 @@
      
      # Dracula Theme
      
-     ![Screenshot 2021-10-25 035909](https://user-images.githubusercontent.com/92994688/138610721-d77e56ed-c031-4d2f-bca4-ca70b74572d7.jpg)
+![Screenshot 2021-10-25 035909](https://user-images.githubusercontent.com/92994688/138611104-43a70f10-0614-4664-b1bd-75ad202f6e71.png)
      
     intinya yah baganti tema VSC :V, yang dulu belum ada diVSC setelah di install bisa diaplikasikan di VSC kita sesuai tampilan tema tersebut. 
 
