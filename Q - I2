@@ -1,0 +1,49 @@
+
+# Quiz Individu II Artificial Intelligence
+
+
+# 1. Arti angka dari python
+  
+     Arinya untuk mengetahui versi berapa dari python tsb, versi perubahan yang keberapa kali, 
+     dan untuk mengetahui modul yang sesuai dan perbedaan dari versi sebelumya untuk digunakan.
+      
+     
+
+# 2. Fungsi pada tools visual studio code
+
+     ![Slide 16_9 - 1](https://user-images.githubusercontent.com/92994688/138598452-c762c70d-fdf6-44cf-b4bd-1526753ddc63.jpg)
+
+     1. Explorer       : Untuk memanage atau mengelola folder atau file project.
+    
+     2. Search         : Search yah untuk pencarian :v, menyediakan pencarian secara global dan replace open folder
+    
+     3. Source Control : VSC terintegrasi git source control secara default 
+    
+     4. Run and Debug  : Berfungsi untuk menjalankan program dan debugger( untuk mengetahui apa yang terjadi pada program kita,
+                        seperti menanalisis valua dari variabel dan menentukan suatu break point)
+       
+     5. Extensions     : Playstorenya Extensions :V, marketplace yang menyediakan plugins untuk mengcustomize atau membuat VSC lebih OP.
+    
+     6. Accounts       : Untuk sinkronisasi VSC dengan akun google atau github.
+    
+     7. Settings       : Berfungsi untuk mengatur atau mengcustomize VSC baik dari segi tampilan atau cara kerja dari fungsi fungsi didalamnya.
+    
+# 3. Extensions, Penjelasan, Contoh, Dan penerapaannya.
+     
+     Extensions itu merupakan plugins atau fitur fitur tambahan yang ada didalam VSC
+     yang memiliki fungsi tertentu untuk menmodifikasi VSC atau Menambah suatu kinerja tertentu kedalamnya.
+     
+     Contoh : 
+     
+     # Dracula Theme
+     
+     ![Screenshot 2021-10-25 035909](https://user-images.githubusercontent.com/92994688/138610721-d77e56ed-c031-4d2f-bca4-ca70b74572d7.jpg)
+     
+    intinya yah baganti tema VSC :V, yang dulu belum ada diVSC setelah di install bisa diaplikasikan di VSC kita sesuai tampilan tema tersebut. 
+
+      
+     
+     
+     
+
+
