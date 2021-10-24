@@ -1,4 +1,4 @@
-# Tugas Indvidu Artificial Intelligence 3_1
+# Tugas Individu Artificial Intelligence 3_1
 
 ## 1. Sejarah pertama kali PL harus menggunakan "Hello World"
 
