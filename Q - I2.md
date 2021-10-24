@@ -4,7 +4,7 @@
 
 # 1. Arti angka dari python
   
-     Arinya untuk mengetahui versi berapa dari python tsb, versi perubahan yang keberapa kali, 
+     Artinya untuk mengetahui versi berapa dari python tsb, versi perubahan yang keberapa kali, 
      dan untuk mengetahui modul yang sesuai dan perbedaan dari versi sebelumya untuk digunakan.
       
      
