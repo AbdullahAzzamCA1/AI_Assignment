@@ -6,6 +6,10 @@
   
      Artinya untuk mengetahui versi berapa dari python tsb, versi perubahan yang keberapa kali, 
      dan untuk mengetahui modul yang sesuai dan perbedaan dari versi sebelumya untuk digunakan.
+     
+     1 = revisi besar
+     2 = revisi kecil
+     3 = rilis perbaikan/build
       
      
 
