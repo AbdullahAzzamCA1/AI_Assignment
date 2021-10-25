@@ -8,17 +8,17 @@
 <br><br/>
 
 2. Exctract filenya lalu setup
-![s1_2](https://user-images.githubusercontent.com/92994688/138698105-daaf7ab6-ca69-409f-b6de-2991930323f6.png)
-<br><br/>
-
-
-3. Next next
-![s2](https://user-images.githubusercontent.com/92994688/138698109-876da22c-c1d2-4e6f-84be-4b82c9153caf.png)
-![s3](https://user-images.githubusercontent.com/92994688/138698079-6dc5d694-4e59-4a5d-bec1-49e3e50a9ff6.png)
-![s4](https://user-images.githubusercontent.com/92994688/138698089-25c9b58d-0061-4c09-b312-542649ae5adf.png)
-![s5](https://user-images.githubusercontent.com/92994688/138698092-fdf6b610-d22b-4189-b0e7-cbf9a729e03a.png)
-![s6](https://user-images.githubusercontent.com/92994688/138698099-0d7881fb-c4aa-4263-8822-ae0c1ae63ddb.png)
-<br><br/>
+  <br><br/>
+  ![s2](https://user-images.githubusercontent.com/92994688/138698109-876da22c-c1d2-4e6f-84be-4b82c9153caf.png)
+  <br><br/>
+  ![s3](https://user-images.githubusercontent.com/92994688/138698079-6dc5d694-4e59-4a5d-bec1-49e3e50a9ff6.png)
+  <br><br/>
+  ![s4](https://user-images.githubusercontent.com/92994688/138698089-25c9b58d-0061-4c09-b312-542649ae5adf.png)
+  <br><br/>
+  ![s5](https://user-images.githubusercontent.com/92994688/138698092-fdf6b610-d22b-4189-b0e7-cbf9a729e03a.png)
+  <br><br/>
+  ![s6](https://user-images.githubusercontent.com/92994688/138698099-0d7881fb-c4aa-4263-8822-ae0c1ae63ddb.png)
+  <br><br/>
 
 ## 2. Program hello world  di flowgorithm
 <br><br/>
