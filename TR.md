@@ -28,5 +28,6 @@
    
 ##Visual Studio Code
    <br><br/>
-   ![vscode](https://user-images.githubusercontent.com/92994688/139077305-e874f7a9-65cd-45d8-b434-e6f8fed0abcb.png)
+   ![vscodee](https://user-images.githubusercontent.com/92994688/139091305-670e0b97-52e6-4c45-801d-053063ce75a8.png)
+
   
