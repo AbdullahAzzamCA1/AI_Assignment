@@ -1,12 +1,13 @@
-#Tugas Rekoknisi - Artificial Intelligence
+# Tugas Rekoknisi - Artificial Intelligence
+<br><br/>
 
 
-##Program luas dan keliling persegi panjang
+## Program luas dan keliling persegi panjang
    <br><br/>
    ![lkpp](https://user-images.githubusercontent.com/92994688/139077084-c185bb85-8be7-483f-b597-0ecaeeadea72.png)
    <br><br/>
    
-##Program suhu
+## Program suhu
    <br><br/>
    A. Reamur ke celcius
    <br><br/>
