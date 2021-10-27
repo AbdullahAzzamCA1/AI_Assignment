@@ -1,11 +1,12 @@
-# Tugas Rekoknisi - Artificial Intelligence
+#Tugas Rekoknisi - Artificial Intelligence
 
 
-## Program luas dan keliling persegi panjang
+##Program luas dan keliling persegi panjang
    <br><br/>
    ![lkpp](https://user-images.githubusercontent.com/92994688/139077084-c185bb85-8be7-483f-b597-0ecaeeadea72.png)
    <br><br/>
-## Program suhu
+   
+##Program suhu
    <br><br/>
    A. Reamur ke celcius
    <br><br/>
@@ -22,9 +23,9 @@
    D. Celcius ke fahrenheit
    <br><br/>
    ![ctf](https://user-images.githubusercontent.com/92994688/139078443-3c1d10fb-9785-4876-a0fc-cd98ffa25a5b.png)
-
    <br><br/>
-## Visual Studio Code
+   
+##Visual Studio Code
    <br><br/>
    ![vscode](https://user-images.githubusercontent.com/92994688/139077305-e874f7a9-65cd-45d8-b434-e6f8fed0abcb.png)
   
