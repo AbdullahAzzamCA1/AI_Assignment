@@ -29,51 +29,6 @@
 ##Visual Studio Code
    <br><br/>
    ![vscodee](https://user-images.githubusercontent.com/92994688/139091305-670e0b97-52e6-4c45-801d-053063ce75a8.png)
-   
-   Source code :
-   
-   # Luas Dan Keliling Panjang
-   print("\nProgram Luas Dan Keliling Persegi Panjang")
-   print("======================================")
-
-   print("Masukkan Panjang")
-   panjang = int(input())
-   print("Masukkan Lebar")
-   lebar = int(input())
-   luas = panjang * lebar
-   keliling = 2 * (panjang + lebar)
-   print("Luas persegi panjang adalah      : " + str(luas))
-   print("Keliling persegi panjang adalah  : " + str(keliling))
-
-
-   # Suhu Konventer
-   print("\n\n\nProgram Suhu Konventer")
-   print("======================================")
-
-   # ReamurToCelcius
-   print("\nReamur Ke Celcius")
-   r = float(input("Masukkan Nilai Reamur : "))
-   c = float(5) / 4 * r
-   print("Maka suhu dalam Celcius : " + str(c))
-
-
-   # FahrenheitToCelcius
-   print("\nFahrenheit Ke Celcius")
-   f = float(input("Masukkan Nilai Fahrenheit : "))
-   c = (f - 32) * (float(5) / 9)
-   print("Maka suhu dalam Celcius : " + str(c))
-
-   # CelciusToReamur
-   print("\nCelcius Ke Reamur")
-   c = float(input("Masukkan Nilai Celcius : "))
-   r = float(4) / 5 * c
-   print("Maka suhu dalam Reamur : " + str(r))
-
-   # CelciusToFahrenheit
-   print("\nCelcius Ke Fahrenheit")
-   c = float(input("Masukkan Nilai Celcius : "))
-   f = c * (float(9) / 5) + 32
-   print("Maka suhu dalam Fahrenheit : " + str(f),"\n\n")
 
 
 
