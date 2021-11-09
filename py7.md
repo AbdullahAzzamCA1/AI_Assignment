@@ -1,4 +1,4 @@
-# Tugas Python 7 - Artificial Intelligenc
+# Tugas Python 7 - Artificial Intelligence
 
 ## Source Code
 ```py
